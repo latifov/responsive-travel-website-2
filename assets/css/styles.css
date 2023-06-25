@@ -4,6 +4,13 @@
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3.5rem;
+
+  /*========== Colors ==========*/
+  --title-color: hsl(0, 0%, 95%);
+  --text-color: hsl(0, 0%, 70%);
+  --text-color-light: hsl(0, 0%, 60%);
+  --body-color: hsl(0, 0%, 0%);
+  --container-color: hsl(0, 0%, 8%);
 }
 
 
